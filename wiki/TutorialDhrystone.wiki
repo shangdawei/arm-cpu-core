@@ -1,14 +1,6 @@
 #labels tutorial,dhrystone,MIPS,ARM,CPU,core
-#This is a simple tutorial to guide how to get dhrystone MIPS of this arm-cpu core.
+#This is a simple tutorial to guide how to get dhrystone MIPS of this arm-cpu-core.
 
 = Introduction =
 
-  This ARM CPU core is ARMv4 architecture compatible. Compared with MCU of ARM9 series, it doesn't support thumb and coprocessor instruction set.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+This ARM CPU core is ARMv4 architecture compatible. Compared with MCU of ARM9 series, it doesn't support thumb and coprocessor instruction set. It has a compact architecture and simple description. It only has 1800 lines, but has high performance: less area and high speed. I hope it will become a new 8051 core in the field of 32-bit width MCU.
