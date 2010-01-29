@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Add your content here.
+  This ARM CPU core is ARMv4 architecture compatible. Compared with MCU of ARM9 series, it doesn't support thumb and coprocessor instruction set.
 
 
 = Details =
