@@ -3,4 +3,4 @@
 
 = Introduction =
 
-  This ARM CPU core is ARMv4 architecture compatible. Compared with MCU of ARM9 series, it doesn't support thumb and coprocessor instruction set. It has a compact architecture and simple description. It only has 1800 lines, but has high performance: less area and high speed. I hope it will become a new 8051 core in the field of 32-bit width MCUs.
+  This ARM CPU core is ARMv4 architecture compatible. Compared with MCU of ARM9 series, it doesn't support thumb and coprocessor instruction set. It has a compact architecture and simple description. It only has 1800 lines, but has high performance: less area and high speed. I hope it would be as popular as 8051 core in the field of 32-bit width MCUs.
