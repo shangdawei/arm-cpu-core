@@ -1,3 +1,4 @@
+#labels tutorial,dhrystone,MIPS,ARM,CPU,core
 #This is a simple tutorial to guide how to get dhrystone MIPS of this arm-cpu core.
 
 = Introduction =
