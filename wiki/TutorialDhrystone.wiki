@@ -9,7 +9,7 @@ I am an engineer and have a good skill in writing verilog. I think it is a good 
 
 This simulation needs a simplest system to run dhrystone manchine code. I have made one just like below. It has a clock source; a timer to supply real time; a ROM module to store machine code; a RAM module; a virtual UART to display dhrystone’s output.
 
-
+[http://arm-cpu-core.googlecode.com/files/dhrystone_diagram.jpg]
  
 In the digram, “ARM CPU” core is my ARMv4-compatiable CPU core, and the rest is described in my testbench file: “tb_dhrystone.v”. Let’s review it. You can open it.
 
